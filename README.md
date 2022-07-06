@@ -13,7 +13,6 @@ The notation is converted in a star display in quarter of stars using SVG:
 ## Render of the plugin:
 
 ![Reviews](Pictures/Rendu.png)
-![Reviews](Pictures/GuestSuite.png)
 
 
 ## Wordpress Admin Panel:
