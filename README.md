@@ -5,8 +5,8 @@ This repo is a Wordpress plugin to integrate the GuestSuite reviews.
 
 ## Star display:
 
-The notation is converted in a star display in quarter of stars:  
-*La note est convertie en quart d'étoiles :*
+The notation is converted in a star display in quarter of stars using SVG:  
+*La note est convertie en quart d'étoiles SVG:*
 
 ![Stars](Pictures/Stars.png)
 
