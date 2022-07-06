@@ -6,18 +6,21 @@ This repo is a Wordpress plugin to integrate the GuestSuite reviews.
 ## Star display:
 
 The notation is converted in a star display in quarter of stars using SVG:  
-*La note est convertie en quart d'étoiles SVG:*
+*La note est convertie en quart d'étoiles par SVG:*
 
 ![Stars](Pictures/Stars.png)
 
 ## Render of the plugin:
 
+The notation, stars and number of reviews is displayed using a shortcode:  
+*La note, les étoiles et le nombre d'avis sont affichés par shortcode :*
 ![Reviews](Pictures/Rendu.png)
 
 
 ## Wordpress Admin Panel:
 
-Informations:  
+Informations in the Wordpress Admin Panel:  
+*Information sur le tableau de bord Wordpress :*
 
 ![GuestSuite](Pictures/Shortcode.png)
 
