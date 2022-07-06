@@ -20,7 +20,7 @@ The notation, stars and number of reviews is displayed using a shortcode:
 ## Wordpress Admin Panel:
 
 Informations in the Wordpress Admin Panel:  
-*Information sur le tableau de bord Wordpress :*
+*Informations sur le tableau de bord Wordpress :*
 
 ![GuestSuite](Pictures/Shortcode.png)
 
