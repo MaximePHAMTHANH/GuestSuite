@@ -1,0 +1,17 @@
+.Footer_Rate{
+	display: block;
+	font-size: 40px;
+
+}
+.Footer_Reviews{
+	display: block;
+	font-size: 12px;
+	margin-top:-8px;
+}
+.Header_Rate{
+	font-size: 20px;
+
+}
+.Footer_Stars{
+	margin-top: 0px;
+}
